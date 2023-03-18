@@ -1,0 +1,21 @@
+button{
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    background-color: rgb(255,14,14);
+    font-size: 1.3rem;
+  font-family: Lucida Sans Typewriter;
+  font-weight: bold;
+  color: rgb(255,246,246);
+  padding: 0.6rem 0.8rem;
+  border: 0;
+  border-radius: 0.15rem;
+  transition: top 150ms, left 150ms ease-in-out;
+  }
+  .unclickable:hover{
+    cursor: pointer
+  }
+  
+  body{
+    background: linear-gradient(to left, rgb(146,2,2), rgb(0,0,1));
+  }s
